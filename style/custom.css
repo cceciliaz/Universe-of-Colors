@@ -1,20 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Caveat&display=swap');
-
+/* @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Caveat&display=swap'); */
 .header{
-    /* height:35%; */
-    /* width: 100%; */
-    background: #1FA6A6;
-    background-image: url("");
+    
 }
-.text-custom {
-    color: #000;
-}
-.logo{
-    /* font-family: 'Amatic SC', sans-serif; */
-    font-family: 'Caveat', cursive;
-    font-size: 2rem;
-    font-weight: 900;
-}
-/* .imagem{
-    height: 20rem;
-} */
