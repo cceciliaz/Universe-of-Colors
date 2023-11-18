@@ -1,18 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
 
 body{
-    background:#bddbdb49 ;
+    background:#bddbdb49;
 }
-.logo{
-    font-family: 'Tangerine', cursive;
-    font-weight: 700;
-    font-size: 1.3rem;
-}
+
 header{
     height: 70px;
     display: grid;
     align-content: center;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.logo{
+    font-family: 'Tangerine', cursive;
+    font-weight: 700;
+    font-size: 1.5rem;
 }
 .item-header{
     padding: 5px;
@@ -25,5 +26,9 @@ header{
     color: #000;
 }
 .item-header > a:hover{
-    background: yellow;
+    color: #628f8f;
+}
+.card{
+    background:#bddbdb49;
+    border: none;
 }
