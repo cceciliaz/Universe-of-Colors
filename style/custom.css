@@ -32,3 +32,6 @@ header{
     background:#bddbdb49;
     border: none;
 }
+ul, li{
+    list-style: none;
+}
